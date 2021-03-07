@@ -22,13 +22,14 @@
 <h2>My Skills</h2>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"></img>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30"></img>
 
 
 
 
 
 
-
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
   
   
 
