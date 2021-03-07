@@ -31,7 +31,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="30"></img>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="30"></img>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaaelm&repo=github-readme-stats)](https://github.com/rafaaelm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelm)](https://github.com/rafaaelm/github-readme-stats)
 
 
 <!--
