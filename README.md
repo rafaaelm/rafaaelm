@@ -7,6 +7,7 @@
 </ul>
 
 <h2>Connect with me:</h2>
+![image](https://user-images.githubusercontent.com/65464806/110249873-21bf4e80-7f57-11eb-9338-1d5503ff91d0.png)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
 <!--
