@@ -7,7 +7,7 @@
 </ul>
 
 <h2>Connect with me:</h2><strong>
-<a href="default.asp">
+<a href="www.linkedin.com/in/rafaaelmascarenhas">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  width="40" height="30">
 </a>
 
