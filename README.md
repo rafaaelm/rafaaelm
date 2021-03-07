@@ -6,6 +6,9 @@
 <li>I am a student of Information Systems at the University of Paulista :computer: :man_technologist:</li>
 </ul>
 
+<h2>Connect with me:</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+
 <!--
 **rafaaelm/rafaaelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
