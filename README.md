@@ -16,8 +16,6 @@
 </a>
 
 
-
-
 <a href="https://discord.com/channels/rafaaelm#3821" target="_blank">
 <img align="center" alt="Rafael Discord" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1615145062~hmac=0be13aacf387d77aa80ac23bdef45645" width="40" height="30">
 </a>
@@ -29,9 +27,8 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="30"></img>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="30"></img>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="30"></img>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="30"></img><strong>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="30"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelm)](https://github.com/rafaaelm/github-readme-stats)
 
 
 <!--
