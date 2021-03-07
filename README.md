@@ -7,8 +7,8 @@
 </ul>
 
 <h2>Connect with me:</h2><strong>
-<a href="https://www.linkedin.com/in/rafaaelmascarenhas/" target="_blank">
-<img align="center" alt="Rafael Linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="30">
+<a href="https://www.instagram.com/rafaaelm/" target="_blank">
+<img align="center" alt="Rafael Instagram" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="30">
 </a>
 <a href="https://www.linkedin.com/in/rafaaelmascarenhas/" target="_blank">
 <img align="center" alt="Rafael Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615144641~hmac=bc61414653e21d2d8654c50bfbeb3bbf" width="40" height="30">
