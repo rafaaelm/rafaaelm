@@ -1,7 +1,9 @@
 ### Hi ther 👋
 
 <h2>I'm Rafael!</h2>
-⋅⋅* I live in São Paulo, Brazil :brazil:
+<ul>
+<li>I live in São Paulo, Brazil :brazil:</li>
+</ul>
 
 <!--
 **rafaaelm/rafaaelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
