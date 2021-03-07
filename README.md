@@ -8,7 +8,7 @@
 <a 
 <h2>Connect with me:</h2>
 <a href="default.asp">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="HTML tutorial" style="width:42px;height:42px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="HTML tutorial" style="width:40px;height:30px;">
 </a>
 
 <!--
