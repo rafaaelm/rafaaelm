@@ -5,10 +5,11 @@
 <li>I live in São Paulo, Brazil :brazil:</li>
 <li>I am a student of Information Systems at the University of Paulista :computer: :man_technologist:</li>
 </ul>
-
+<a 
 <h2>Connect with me:</h2>
-![image](https://user-images.githubusercontent.com/65464806/110249873-21bf4e80-7f57-11eb-9338-1d5503ff91d0.png)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+<a href="default.asp">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
 
 <!--
 **rafaaelm/rafaaelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
