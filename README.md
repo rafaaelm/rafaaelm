@@ -30,6 +30,8 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="30"></img>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelm&layout=compact)](https://github.com/rafaaelm/github-readme-stats)
+
 
 <!--
 **rafaaelm/rafaaelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
