@@ -19,6 +19,13 @@
 <img align="center" alt="Rafael Discord" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1615145062~hmac=0be13aacf387d77aa80ac23bdef45645" width="40" height="30">
 </a>
   
+<h2>My Skills</h2>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30">
+
+
+
+
+
   
   
 
