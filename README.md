@@ -32,7 +32,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="30"></img>
 
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaaelm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
