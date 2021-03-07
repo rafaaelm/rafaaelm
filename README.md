@@ -10,6 +10,12 @@
 <a href="https://www.linkedin.com/in/rafaaelmascarenhas/" target="_blank">
 <img align="center" alt="Rafael Linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="30">
 </a>
+<a href="https://www.linkedin.com/in/rafaaelmascarenhas/" target="_blank">
+<img align="center" alt="Rafael Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615144641~hmac=bc61414653e21d2d8654c50bfbeb3bbf" width="40" height="30">
+</a>
+  
+  
+  
 
 <!--
 **rafaaelm/rafaaelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
