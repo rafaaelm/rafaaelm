@@ -12,7 +12,7 @@
 </a>
   
 <a href="https://www.instagram.com/rafaaelm/" target="_blank">
-<img align="center" alt="Rafael Instagram" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615144641~hmac=bc61414653e21d2d8654c50bfbeb3bbf" width="40" height="30">
+<img align="center" alt="Rafael Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="40" height="30">
 </a>
 
 
