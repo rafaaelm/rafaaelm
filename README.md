@@ -1,4 +1,4 @@
-### Hi ther 👋
+### Hi there 👋
 
 <h2>I'm Rafael!</h2>
 <ul>
