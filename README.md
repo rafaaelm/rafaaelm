@@ -12,12 +12,12 @@
 </a>
   
 <a href="https://www.instagram.com/rafaaelm/" target="_blank">
-<img align="center" alt="Rafael Instagram" src="https://www.flaticon.com/br/icone-gratis/instagram_174855?term=instagram&page=1&position=2&page=1&position=2&related_id=174855&origin=search#" width="40" height="30">
+<img align="center" alt="Rafael Instagram" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1622687307~hmac=2e420ca365e6e569b0101cdda44e3ca3" width="30" height="30">
 </a>
 
 
 <a href="https://discord.com/channels/rafaaelm#3821" target="_blank">
-<img align="center" alt="Rafael Discord" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1615145062~hmac=0be13aacf387d77aa80ac23bdef45645" width="40" height="30">
+<img align="center" alt="Rafael Discord" src="https://image.flaticon.com/icons/png/512/906/906361.png" width="30" height="30">
 </a>
   
 <h2>My Skills</h2>
