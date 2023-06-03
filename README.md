@@ -11,14 +11,6 @@
 <img align="center" alt="Rafael Linkedin " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="30">
 </a>
   
-<a href="https://www.instagram.com/rafaaelm/" target="_blank">
-<img align="center" alt="Rafael Instagram" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1622687307~hmac=2e420ca365e6e569b0101cdda44e3ca3" width="30" height="30">
-</a>
-
-
-<a href="https://discord.com/channels/rafaaelm#3821" target="_blank">
-<img align="center" alt="Rafael Discord" src="https://image.flaticon.com/icons/png/512/906/906361.png" width="30" height="30">
-</a>
   
 <h2>My Skills</h2>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30">
