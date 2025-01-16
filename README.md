@@ -3,7 +3,6 @@
 <h2>I'm Rafael!</h2>
 <ul>
 <li>I live in São Paulo, Brazil :brazil:</li>
-<li>I am a student of Information Systems at the University of Paulista :computer: :man_technologist:</li>
 </ul>
 
 <h2>Connect with me:</h2><strong>
